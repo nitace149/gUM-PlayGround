@@ -1,3 +1,3 @@
 # GUM-PlayGround
 
-    - getUserMedia Playground
+- **getUserMedia Playground**
